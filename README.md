@@ -12,7 +12,7 @@ Sobre:
 </p>  
 </h2>
 
-Projeto do curso de [HTML5 e CSS3 parte 2: posicionamento, listas e navegação](https://cursos.alura.com.br/course/html5-css3-avancando-css) de HTML e CSS.
+Projeto do curso de [HTML5 e CSS3 parte 2: posicionamento, listas e navegação]([https://cursos.alura.com.br/course/html5-css3-avancando-css](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao)) de HTML e CSS.
 O Curso é ofertado pela plataforma **[Alura](https://www.alura.com.br/)**.
 Perfil na plataforma do instrutor do curso [Pedro Marins](https://cursos.alura.com.br/user/opedromarins).
 
